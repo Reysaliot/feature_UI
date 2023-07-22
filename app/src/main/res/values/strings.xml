@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DashboardActivity</string>
+    <string name="buy_text">Buy</string>
+</resources>
